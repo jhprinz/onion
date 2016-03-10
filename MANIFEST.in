@@ -1,0 +1,2 @@
+graft onion
+recursive-include onion *.py
